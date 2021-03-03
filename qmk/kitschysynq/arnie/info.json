@@ -1,0 +1,36 @@
+{
+    "keyboard_name": "Kitschysynq Arnie",
+    "url": "",
+    "maintainer": "kitschysynq",
+    "width": 7,
+    "height": 7,
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"R00", "x":2, "y":0},
+                {"label":"R01", "x":3, "y":0},
+                {"label":"R02", "x":4, "y":0},
+                {"label":"R03", "x":5, "y":0},
+                {"label":"R04", "x":6, "y":0},
+                {"label":"R10", "x":2, "y":1},
+                {"label":"R11", "x":3, "y":1},
+                {"label":"R12", "x":4, "y":1},
+                {"label":"R13", "x":5, "y":1},
+                {"label":"R14", "x":6, "y":1},
+                {"label":"R20", "x":2, "y":2},
+                {"label":"R21", "x":3, "y":2},
+                {"label":"R22", "x":4, "y":2},
+                {"label":"R23", "x":5, "y":2},
+                {"label":"R24", "x":6, "y":2},
+                {"label":"R32", "x":4, "y":3},
+                {"label":"R33", "x":5, "y":3},
+                {"label":"R30", "x":2, "y":4},
+                {"label":"R31", "x":3, "y":4},
+                {"label":"R41", "x":0, "y":5},
+                {"label":"R40", "x":1, "y":5},
+                {"label":"R43", "x":0, "y":6},
+                {"label":"R42", "x":1, "y":6}
+            ]
+        }
+    }
+}
